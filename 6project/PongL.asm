@@ -5,7 +5,7 @@
 
 // Symbol-less version of the Pong.asm program.
 // Designed for testing the basic version of the assembler.
-
+//
 @256
 D=A
 @0
